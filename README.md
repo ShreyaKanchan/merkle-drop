@@ -1,5 +1,9 @@
 # MerkleDrop
 
+> A Merkle-tree allocation toolkit showing how large off-chain allowlists can be verified against one on-chain root.
+
+![MerkleDrop](assets/logo.svg)
+
 Merkle tree and proof verification demo for efficient allowlists and token distributions.
 
 ```bash
